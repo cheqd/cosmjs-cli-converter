@@ -9,14 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eengineer1/cosmjs-csv-address-converter.git"
+    "url": "git+https://github.com/cheqd/cosmjs-cli-converter.git"
   },
-  "author": "Tasos Derisiotis",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Eengineer1/cosmjs-csv-address-converter/issues"
-  },
-  "homepage": "https://github.com/Eengineer1/cosmjs-csv-address-converter#readme",
   "dependencies": {
     "@cosmjs/encoding": "^0.28.0",
     "csv-stringify": "^6.0.5",
