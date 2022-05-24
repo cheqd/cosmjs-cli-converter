@@ -12,7 +12,7 @@
     "url": "git+https://github.com/cheqd/cosmjs-cli-converter.git"
   },
   "dependencies": {
-    "@cosmjs/encoding": "^0.28.0",
+    "@cosmjs/encoding": "^0.28.4",
     "csv-stringify": "^6.0.5",
     "danfojs-node": "^1.0.4"
   }
